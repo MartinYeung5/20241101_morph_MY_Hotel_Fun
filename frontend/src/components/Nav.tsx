@@ -37,7 +37,7 @@ export default function Nav() {
           </li>
 
           <li>
-            <h1 className="text-2xl font-bold">MY Hotel Booking Dapp</h1>
+            <h1 className="text-2xl font-bold">MY Hotel Fun</h1>
           </li>
           <li>
             <div className="flex items-center gap-3">
