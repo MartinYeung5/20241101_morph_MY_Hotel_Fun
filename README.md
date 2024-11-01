@@ -6,3 +6,9 @@
 
 ### Introduction
 用戶可以通過預訂房間獲得一次競獎機會，獎品是隨機token或者是優惠禮券
+
+
+### References
+1. https://www.epochconverter.com/
+2. BokkyPooBah’s Gas-Efficient Solidity DateTime Library
+* https://medium.com/@BokkyPooBah/bokkypoobahs-gas-efficient-solidity-datetime-library-92bf96d9b2da
