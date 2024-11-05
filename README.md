@@ -7,6 +7,10 @@
 ### Introduction
 用戶可以通過預訂房間獲得一次競獎機會，獎品是隨機token或者是優惠禮券
 
+## function
+1. only allow owner to do "add room" and "set availability"
+(src/app/page.tsx)
+2. 
 
 ### References
 1. epcoh converter
